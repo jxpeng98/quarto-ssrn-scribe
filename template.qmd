@@ -10,8 +10,8 @@ author:
           department: Co-Founder
           city: Berlin
           country: Germany
-format: 
-  ssrn-scribe-typst: default
+format:
+  ssrn-scribe-typst
 ---
 
 ```{=typst}
